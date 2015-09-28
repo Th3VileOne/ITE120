@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#transition{
+	
+		 transition-property:all;
+		 transition-delay: 0s;
+		 transition-duration: 3s;
+		 background-color:#F30;
+		 width:40%;
+		 
+		 
+		}
+
+#transition:hover{
+		background:#3C3;  							
+		transform:skew(3,1)
+		transform-origin:left;
+					
+		}
+div{
+	display:block;}
