@@ -7,16 +7,16 @@
 		 transition-delay: 0s;
 		 transition-duration: 3s;
 		 background-color:#F30;
-		 margin-left:10%;
-		 margin-right:10%;
+		 margin-left:20%;
+		 margin-right:20%;
 		 
 		 
 		}
 
 #transition:hover{
 		background:#3C3;  							
-		transform:skew(3,1)
-		transform-origin:left;
+		transform:scaleX(1.5);
+		transform-origin:center;
 					
 		}
 div{
