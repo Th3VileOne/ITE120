@@ -2,12 +2,13 @@
 /* CSS Document */
 
 #transition{
-	
+	text-align:center;
 		 transition-property:all;
 		 transition-delay: 0s;
 		 transition-duration: 3s;
 		 background-color:#F30;
-		 width:40%;
+		 margin-left:10%;
+		 margin-right:10%;
 		 
 		 
 		}
