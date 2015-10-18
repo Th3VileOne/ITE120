@@ -2,12 +2,13 @@
 /* CSS Document */
 @font-face{
 	font-family:"circula Thin";
-	src:url(Fonts/circula-medium.otf);
+	src:url(Fonts/circula-medium.otf);}
+@font-face{
 	font-family:"neutronium";
-	src:url(Fonts/Neutronium.ttf);
+	src:url(Fonts/Neutronium.ttf);}
+@font-face{
 	font-family: "Mystery";
-	src: url(Fonts/MysteryQuest-Regular.ttf);
-	
+	src: url(Fonts/MysteryQuest-Regular.ttf);	
 	}
 body{
 	background-color:black;
