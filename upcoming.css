@@ -1,5 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
+@font-face{
+	font-family:"Mystery Quest";
+	src:url(MysteryQuest-Regular.ttf);}
 body{
 	background-color:black;
 	background-image:url(Images/Mystery.jpg);
@@ -10,9 +13,7 @@ body{
 
 
 	}
-@font-face{
-	font-family:"Mystery Quest";
-	src:url(MysteryQuest-Regular.ttf);}
+
 p a{
 	display:block;
 	text-decoration:none;
