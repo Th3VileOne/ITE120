@@ -165,6 +165,8 @@ header{
 	color:#9C3;
 	font-weight:bold;
 	}
+#bodyContainer2 iframe{
+	padding-bottom:20px;}
 
 .art1{
 	color:white;
@@ -172,6 +174,57 @@ header{
 	margin-right:10%;
 	width:inherit;}	
 .timestamp{
-	color:#3F9;}
+	color:#3F9;
+	font-size:16px}
+	
+#footContain{
+	display:block;}
+footer{
+	display:block;
+	position:absolute;
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+	float:left;
+	border-top:1px solid #999;
+	
+	
+	}
+footer p{
+	color:#FFF;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	margin-bottom:0px;}
+.footlate{
+	font-family:neutronium;
+	font-size:20px;}	
+	
+footer ul{	
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:0px;
+	padding-right:100px;
+	list-style-type:none;
+	float:left;
+	}
+
+
+	
+footer ul li:first-child{
+	font-family:"Designer Block";
+	font-size:16px;
+	color:white;
+	text-decoration:underline;}
+footer ul li{
+	font-family:"circula Thin";
+	font-size:15px;
+	color:white;
+	}
+footer ul a{
+	text-decoration:none;
+	color:#FFF;}
+}	
 	
 
