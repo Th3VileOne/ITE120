@@ -210,7 +210,14 @@ footer ul{
 	float:left;
 	}
 
-
+.customFB{
+	font-family:"circula Thin";
+	font-size:18px;
+	color:#66F;}
+.customGP{
+	font-family:"circula Thin";
+	font-size:18px;
+	color:#F60;}
 	
 footer ul li:first-child{
 	font-family:"Designer Block";
