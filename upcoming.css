@@ -2,7 +2,7 @@
 /* CSS Document */
 @font-face{
 	font-family:"Mystery Quest";
-	src:url(MysteryQuest-Regular.ttf);}
+	src: url();}
 body{
 	background-color:black;
 	background-image:url(Images/Mystery.jpg);
