@@ -15,9 +15,9 @@ body{
 	display:block;
 	line-height:30px;
 	background-image:url(Images/void.jpg);
-	background-size:auto;
+	background-size:100%;
 	background-repeat:no-repeat;
-	background-position:center;
+	background-position:top center;
 
 	}
 	
@@ -144,7 +144,7 @@ table td{
 	font-size:16px;
 	padding-top:20px;
 	margin-bottom:10px;
-	border-bottom:5px solid #000;}
+	border-bottom:7px dotted #60F;}
 
 table td a{
 	font-family:"Designer Block";
@@ -153,6 +153,11 @@ table td a{
 	color:#9C3;}
 table td iframe{
 	padding-top:20px;}
+table img{
+	width:60%;
+	margin-right:20%;
+	margin-left:20%;}
+
 .timestamp{
 	color:#3F9;
 	font-size:16px}
