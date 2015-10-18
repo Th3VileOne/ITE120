@@ -86,21 +86,46 @@ header{
 	}
 	#menu ul li:last-child{
 		border-right:none;}
-
-#formEdit{
+#psstcont{
 	display:block;
 	width:80%;
 	margin-left:auto;
 	margin-right:auto;
-	padding-top:100px;}	
+	padding-top:50px;}
+.psst{
+	font-family:"circula Thin";
+	font-size:22px;
+	color:white;
+	text-align:center;}
+
+#formEdit{
+	display:block;
+	width:50%;
+	margin-left:10%;
+	margin-right:auto;
+	float:left;
+	}	
+#formEdit form p{
+	font-family:neutronium;
+	color:white;}
 	
+#mapap{
+	display:block;
+	float:left;}
+#mapap p{
+	font-family:"circula Thin";
+	font-size:22px;
+	color:white;
+	text-align:center}
+
 	
 	
 	
 	
 	
 #footContain{
-	display:block;}
+	display:block;
+	clear:both;}
 footer{
 	display:block;
 	position:absolute;
