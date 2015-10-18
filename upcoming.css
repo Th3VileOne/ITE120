@@ -6,36 +6,63 @@ body{
 	line-height:30px;
 
 	}
+#bodyspace{
+	display:block;
+	height:100px;
+	}
+#bodyContainer{
+	display:block;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	border: 5px solid white;
+	border-radius:15px;
 	
+}
+#bodyContainer p{
+	color:white;}
+
+
 
 header{
 	display:block;
 	position:relative;
 	margin-top:100px;
+	width:100%;
+	margin-left:10%;
+	margin-right:10%;
 	}
+
 	
 #menu{
 	display:block;
 	float:left;
-	margin:auto 10%;
+	margin-left:auto;
+	margin-right:auto;
 	width:80%;
+	height:50px;
 	background:#333;	
 	border-style:solid;
 	border-color:#FFF;
 	border-radius:20px;
+	min-width:650px;
+	min-height:45px;
+	max-height:250px;
 	}
 	
 
 	
 #menu ul{
+	display:inline-block;
 	list-style:none;
+	
 	}
 #menu ul li{
 	font-family:"circula Thin";
 	font-size:24px;
 	float:left;
-	border-right: 3px solid grey;
-	min-width:70px;
+	border-right: 3px solid white;
+	min-width:10%;
 	}
 #menu ul li a{
 	padding-left:20px;
