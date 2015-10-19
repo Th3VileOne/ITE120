@@ -74,27 +74,58 @@ header{
 	}
 #menu ul li:last-child{
 	border-right:none;}
+	
+	
+	
+	
 		
 #containMe{
 	display:block;
 	width:80%;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:80px;
+	margin-bottom:20px;
+	border:2px solid white;
+	border-radius:20px;
+	height:auto;
 	}		
 #containMe img{
-	width:20%;}	
+	width:20%;
+	margin-left:auto;
+	margn-right:auto;
+	margin-top: 30px;
+	border:2px solid white;
+	border-radius:10px;
+
+	}	
+#mytext{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;}	
+#mytext p{
+	font-family:"Designer Block";
+	font-size:36px;
+	color:white;
+	line-height:100%;}
 	
 #spacer{
 	display:block;
-	height:30px;}	
+	height:70px;}	
 
 		
 		
+
+
+
+
+
+
 		
 	
 #footContain{
-	display:block;}
+	display:block;
+		clear:both;}
 footer{
 	display:block;
 	position:absolute;
@@ -103,7 +134,7 @@ footer{
 	margin-right:10%;
 	float:left;
 	border-top:1px solid #999;
-	clear:both;
+
 	
 	
 	}
